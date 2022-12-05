@@ -25,7 +25,7 @@ const Register = () => {
   const handleRegister = () => {
     const { name, email, password, reEnterPassword } = user;
     if (name && email && password && password === reEnterPassword) {
-      axios.post("http://localhost:9001/register", user).then((res) => {
+      axios.post("https://spacex-backend.onrender.com/register", user).then((res) => {
         setError(res.data.message);
 
         if (res.data.user === undefined) {

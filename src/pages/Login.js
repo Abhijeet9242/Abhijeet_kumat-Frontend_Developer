@@ -26,7 +26,7 @@ const Login = () => {
     const { email, password } = user;
 
     if (email !== "" && password !== "") {
-      axios.post("http://localhost:9001/login", user).then((res) => {
+      axios.post("https://spacex-backend.onrender.com/login", user).then((res) => {
         setError(res.data.message);
 
         if (res.data.user === undefined) {
