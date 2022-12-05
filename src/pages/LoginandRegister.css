@@ -1,0 +1,86 @@
+/* Login and SignUp */
+
+.register-main {
+  width: 100%;
+
+  height: 100vh;
+  background: url("https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+    no-repeat center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login .form-control {
+  display: flex;
+  flex-direction: column;
+
+  border: none;
+  background: url("https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+    no-repeat center/cover;
+}
+
+.login .form-control input {
+  margin: 5px 0;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  width: 80vw;
+  font-family: inherit;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.login .form-control button {
+  background-color: grey;
+  padding: 8px;
+  /* border: 2px solid #2c7f86; */
+  border: 2px solid grey;
+  color: #fff;
+  font-family: inherit;
+  border-radius: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 18px;
+  margin-top: 5px;
+  cursor: pointer;
+  transition: background-color 0.4s;
+}
+
+.login .form-control button:hover {
+  background-color: transparent;
+}
+
+@media (min-width: 768px) {
+  .showcase {
+    background-position: top;
+  }
+
+  .showcase .showcase-overlay h1 {
+    font-size: 64px;
+  }
+
+  .showcase .showcase-overlay p {
+    font-size: 18px;
+  }
+
+  .destinations .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+
+  .destinations .grid div img {
+    height: 150px;
+    width: 300px;
+  }
+
+  .footer ul {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .login .form-control input {
+    width: 50vw;
+  }
+}
