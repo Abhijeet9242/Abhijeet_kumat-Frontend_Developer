@@ -1,11 +1,5 @@
 **_Backend Repo URL_**
-https://github.com/Abhijeet9242/Abhijeet_brainstorm_backend
-
-**_Video URL_**
-https://drive.google.com/file/d/1kAWCKrHEyJ0RGlee4dcl3P5ZpbjswjdT/view?usp=share_link
-
-
-
+https://github.com/Abhijeet9242/Backend_Ecommerce
 
 
 **_Technology I used_**
@@ -14,38 +8,61 @@ https://drive.google.com/file/d/1kAWCKrHEyJ0RGlee4dcl3P5ZpbjswjdT/view?usp=share
 
 1. React Js
 2. Redux
-3. JavaScript
-4. Html
-5. Css3
-6. material ui
+3. Material ui
+4. Css3
+5. Express js
+6. mongodb
 7. bootstrap
-8. Express js
-9. mongodb
 
 **_Demo Pictures_**
 
 
 > Landing Page
-> ![login](https://github.com/Abhijeet9242/Abhijeet_kumat-Frontend_Developer/blob/master/src/images/readme_Images/landingpage.png)
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/LandingPage.png)
 
 ---
 
 > Login Page
-> ![login](https://github.com/Abhijeet9242/Abhijeet_kumat-Frontend_Developer/blob/master/src/images/readme_Images/login.png)
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/LoginPage.png)
 
 ---
 
 > Register Page
-> ![login](https://github.com/Abhijeet9242/Abhijeet_kumat-Frontend_Developer/blob/master/src/images/readme_Images/register.png)
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/RegisterPage.png)
 
 ---
 
 > HomePage
-> ![login](https://github.com/Abhijeet9242/Abhijeet_kumat-Frontend_Developer/blob/master/src/images/readme_Images/homepage.png)
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/HomePage.png)
 
 ---
 
-> DetailPage
-> ![login](https://github.com/Abhijeet9242/Abhijeet_kumat-Frontend_Developer/blob/master/src/images/readme_Images/single.png)
+> ProductPage
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/ProductPage.png)
+
+---
+
+> CartPage
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/CartPage.png)
+
+---
+
+> Admin_LoginPage
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/Admin_LoginPage.png)
+
+---
+
+> Admin_HomePage
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/Admin_Homepage.png)
+
+---
+
+> Admin_ProductAdd_Page
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/Admin_ProductAdd.png)
+
+---
+
+> Admin_ProductView_Page
+> ![login](https://github.com/Abhijeet9242/Frontend_Ecommerce/blob/master/src/ReadmeFile_Images/Admin_ProductView.png)
 
 
